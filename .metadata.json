@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ao",
+    "oncran": true
+  },
+  {
+    "package": "fHMM",
+    "oncran": true
+  }
+]

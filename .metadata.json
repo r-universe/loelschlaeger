@@ -6,5 +6,9 @@
   {
     "package": "fHMM",
     "oncran": true
+  },
+  {
+    "package": "ino",
+    "oncran": true
   }
 ]

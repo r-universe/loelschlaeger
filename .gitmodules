@@ -18,3 +18,8 @@
 	url = https://github.com/loelschlaeger/ino
 	shallow = true
 	registered = true
+[submodule "RprobitB"]
+	path = RprobitB
+	url = https://github.com/loelschlaeger/rprobitb
+	shallow = true
+	registered = true

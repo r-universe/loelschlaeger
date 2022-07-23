@@ -10,5 +10,9 @@
   {
     "package": "ino",
     "oncran": true
+  },
+  {
+    "package": "RprobitB",
+    "oncran": true
   }
 ]

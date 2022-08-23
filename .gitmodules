@@ -18,6 +18,11 @@
 	url = https://github.com/loelschlaeger/ino
 	shallow = true
 	registered = true
+[submodule "optimizeR"]
+	path = optimizeR
+	url = https://github.com/loelschlaeger/optimizer
+	shallow = true
+	registered = true
 [submodule "RprobitB"]
 	path = RprobitB
 	url = https://github.com/loelschlaeger/rprobitb

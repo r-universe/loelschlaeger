@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "optimizeR",
+    "oncran": true
+  },
+  {
     "package": "RprobitB",
     "oncran": true
   }

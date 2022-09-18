@@ -8,11 +8,6 @@
 	url = https://github.com/loelschlaeger/ao
 	shallow = true
 	registered = true
-[submodule "fHMM"]
-	path = fHMM
-	url = https://github.com/loelschlaeger/fhmm
-	shallow = true
-	registered = true
 [submodule "ino"]
 	path = ino
 	url = https://github.com/loelschlaeger/ino

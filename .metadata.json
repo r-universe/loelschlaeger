@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "ino",
-    "oncran": true
-  },
-  {
     "package": "optimizeR",
     "oncran": true
   },

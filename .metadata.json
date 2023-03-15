@@ -14,5 +14,9 @@
   {
     "package": "RprobitB",
     "oncran": true
+  },
+  {
+    "package": "vntrs",
+    "oncran": true
   }
 ]

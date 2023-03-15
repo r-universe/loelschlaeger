@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "optimizeR"]
-	path = optimizeR
-	url = https://github.com/loelschlaeger/optimizer
-	shallow = true
-	registered = true
-[submodule "RprobitB"]
-	path = RprobitB
-	url = https://github.com/loelschlaeger/rprobitb
-	shallow = true
-	registered = true
 [submodule "ao"]
 	path = ao
 	url = https://github.com/loelschlaeger/ao
@@ -21,5 +11,15 @@
 [submodule "fHMM"]
 	path = fHMM
 	url = https://github.com/loelschlaeger/fhmm
+	shallow = true
+	registered = true
+[submodule "optimizeR"]
+	path = optimizeR
+	url = https://github.com/loelschlaeger/optimizer
+	shallow = true
+	registered = true
+[submodule "RprobitB"]
+	path = RprobitB
+	url = https://github.com/loelschlaeger/rprobitb
 	shallow = true
 	registered = true

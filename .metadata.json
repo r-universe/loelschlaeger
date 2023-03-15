@@ -1,18 +1,18 @@
 [
   {
-    "package": "ao",
-    "oncran": true
-  },
-  {
-    "package": "fHMM",
-    "oncran": true
-  },
-  {
     "package": "optimizeR",
     "oncran": true
   },
   {
     "package": "RprobitB",
+    "oncran": true
+  },
+  {
+    "package": "ao",
+    "oncran": true
+  },
+  {
+    "package": "fHMM",
     "oncran": true
   }
 ]

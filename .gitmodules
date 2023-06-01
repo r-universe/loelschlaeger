@@ -13,6 +13,11 @@
 	url = https://github.com/loelschlaeger/fhmm
 	shallow = true
 	registered = true
+[submodule "ino"]
+	path = ino
+	url = https://github.com/loelschlaeger/ino
+	shallow = true
+	registered = true
 [submodule "optimizeR"]
 	path = optimizeR
 	url = https://github.com/loelschlaeger/optimizer

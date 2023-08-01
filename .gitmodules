@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RprobitB"]
+	path = RprobitB
+	url = https://github.com/loelschlaeger/rprobitb
 [submodule "ao"]
 	path = ao
 	url = https://github.com/loelschlaeger/ao
@@ -14,9 +17,6 @@
 [submodule "optimizeR"]
 	path = optimizeR
 	url = https://github.com/loelschlaeger/optimizer
-[submodule "RprobitB"]
-	path = RprobitB
-	url = https://github.com/loelschlaeger/rprobitb
 [submodule "vntrs"]
 	path = vntrs
 	url = https://github.com/loelschlaeger/vntrs

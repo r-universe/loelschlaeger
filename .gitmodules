@@ -14,6 +14,9 @@
 [submodule "ino"]
 	path = ino
 	url = https://github.com/loelschlaeger/ino
+[submodule "oeli"]
+	path = oeli
+	url = https://github.com/loelschlaeger/oeli
 [submodule "optimizeR"]
 	path = optimizeR
 	url = https://github.com/loelschlaeger/optimizer

@@ -20,6 +20,9 @@
 [submodule "optimizeR"]
 	path = optimizeR
 	url = https://github.com/loelschlaeger/optimizer
+[submodule "portion"]
+	path = portion
+	url = https://github.com/loelschlaeger/portion
 [submodule "vntrs"]
 	path = vntrs
 	url = https://github.com/loelschlaeger/vntrs

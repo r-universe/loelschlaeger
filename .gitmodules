@@ -14,6 +14,9 @@
 [submodule "ino"]
 	path = ino
 	url = https://github.com/loelschlaeger/ino
+[submodule "normalize"]
+	path = normalize
+	url = https://github.com/loelschlaeger/normalize
 [submodule "oeli"]
 	path = oeli
 	url = https://github.com/loelschlaeger/oeli

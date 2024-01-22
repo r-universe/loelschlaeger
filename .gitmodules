@@ -11,9 +11,6 @@
 [submodule "fHMM"]
 	path = fHMM
 	url = https://github.com/loelschlaeger/fhmm
-[submodule "ino"]
-	path = ino
-	url = https://github.com/loelschlaeger/ino
 [submodule "normalize"]
 	path = normalize
 	url = https://github.com/loelschlaeger/normalize

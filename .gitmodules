@@ -23,6 +23,9 @@
 [submodule "portion"]
 	path = portion
 	url = https://github.com/loelschlaeger/portion
+[submodule "trackopt"]
+	path = trackopt
+	url = https://github.com/loelschlaeger/trackopt
 [submodule "vntrs"]
 	path = vntrs
 	url = https://github.com/loelschlaeger/vntrs

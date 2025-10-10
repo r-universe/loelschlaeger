@@ -8,6 +8,9 @@
 [submodule "ao"]
 	path = ao
 	url = https://github.com/loelschlaeger/ao
+[submodule "choicedata"]
+	path = choicedata
+	url = https://github.com/loelschlaeger/choicedata
 [submodule "fHMM"]
 	path = fHMM
 	url = https://github.com/loelschlaeger/fhmm
